@@ -14,6 +14,6 @@ run the node script to verify against the given transaction
 `nodejs --stack-size=64000 verify.js`
 
 ###Installing Required Modules
-`npm install crypto`
-`npm install solc`
-`npm install web3` 
+1. `npm install crypto`
+2. `npm install solc`
+3. `npm install web3` 
