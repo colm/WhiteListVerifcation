@@ -1,13 +1,11 @@
 ## Repo to verify SampleOffer.sol from slock.it
 
 ###First clone the Repo or run `get.sh`
-Clone Offer `git clone https://github.com/slockit/smart-contract`
-Clone DAO `git clone https://github.com/slockit/DAO`
-
-`cd DAO`
-change to deployed version`git checkout v1.0`
-
-`cd ..`
+Clone Offer `git clone https://github.com/slockit/smart-contract` \n
+Clone DAO `git clone https://github.com/slockit/DAO`\n
+`cd DAO`\n
+change to deployed version `git checkout v1.0` \n 
+`cd ..`\n
 
 ###Then run the verify script
 start geth with rpc 
